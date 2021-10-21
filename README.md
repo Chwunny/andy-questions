@@ -1,17 +1,12 @@
-**1. All technical people have an "approach" to solving large, complex problems, and in my experience, these approaches**
-**generally fit into one of three categories:**
-**• "circle looking for an opening",**
-**• "pick it apart one piece at a time",**
-**• "dive in with both feet".**
+**1. All technical people have an "approach" to solving large, complex problems, and in my experience, these approaches generally fit into one of three categories:**
+- "circle looking for an opening",
+- "pick it apart one piece at a time",
+- "dive in with both feet".
 **None of these are wrong, but they are different. Which best describes your approach and why?**
 
 I think every approach has pros and cons and it depends on the type of problem you're solving, but I personally tend to lean towards picking a problem apart one piece at a time. I find it easier to compartmentalize and solve one problem at a time, it's typically much easier to explain your process to others this way as well. Good documentation is key!
 
-**2. In my experience, technical people tend to fit into one of two categories which I term "leapers" and "grinders".**
-**• A leaper will make significant intuitive jumps forward based on incomplete information and be right perhaps 70% to 80% of the time, making it worth the risk.**
-**• A grinder starts at point A and grinds through every permutation on the way to point B, leaving no direct conclusion untouched, but arriving much slower than a leaper.**
-**A good technical team requires a balance of both - leapers to push the grinders forward and work outside the box, and**
-**grinders to catch the mistakes and fill in the gaps. Which are you and why?**
+**2. In my experience, technical people tend to fit into one of two categories which I term "leapers" and "grinders". A leaper will make significant intuitive jumps forward based on incomplete information and be right perhaps 70% to 80% of the time, making it worth the risk. A grinder starts at point A and grinds through every permutation on the way to point B, leaving no direct conclusion untouched, but arriving much slower than a leaper.A good technical team requires a balance of both - leapers to push the grinders forward and work outside the box, and grinders to catch the mistakes and fill in the gaps. Which are you and why?**
 
 I try to be both. If leaping is a possibility then I will do that, but only if I have solid foundational knowledge of the topic. For issues that I'm unfamiliar with I like to take a step back and take it slow, read all of the documentation, and really pick it apart until I feel familiar enough to teach the information to somebody else. If you're comfortable to teach somebody else you typically have a solid understanding of the topic at hand.
 
